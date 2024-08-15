@@ -5,7 +5,7 @@
 1. **Clone repo**: Run this in your terminal 
 
       ```bash
-      git clone https://github.com/tonykipkemboi/ollama_pdf_rag.git
+      https://github.com/AvishkaN/pdf-chat-bot-with-ollama.git
       ```
 
 2. **Install Dependencies**: Execute to install dependencies
